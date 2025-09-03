@@ -5,24 +5,24 @@ I'm a passionate full-stack engineer currently pursuing a Bachelor's degree in A
 
 My journey into technology is built on a solid foundation from my time in the military, where I served for two and a half years as an Electronics Technician and provided IT support. This experience honed my problem-solving skills and technical abilities, which I now apply to designing and building innovative web solutions.
 
-🔧 Technologies & Skills
+🔧 **Technologies & Skills**
 Here are some of the technologies I work with:
 
-Frontend:
+**Frontend:**
 
-React React Redux JavaScript HTML5 CSS3
+React, React Redux, JavaScript, HTML5, CSS3
 
-Tailwind CSS Bootstrap Jinja2
+Tailwind, CSS, Bootstrap≤ Jinja2
 
-Backend:
+**Backend:**
 
-Python Flask Express.js Java
+Python, Flask, Express.js, Java
 
-Databases & ORMs:
+**Databases & ORMs:**
 
-SQL MongoDB SQLAlchemy
+SQL, MongoDB, SQLAlchemy
 
-Concepts:
+**Concepts:**
 
 Web Design Agentic Programming Responsive Design
 
