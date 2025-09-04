@@ -24,7 +24,7 @@ Here are some of the technologies I work with:
 
 **Concepts:**
 
-* Web Design Agentic Programming Responsive Design
+* Web Design, Agentic Programming, Responsive Design
 
 🇺🇸 **About My Background**
 
