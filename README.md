@@ -26,14 +26,16 @@ Here are some of the technologies I work with:
 
 * Web Design Agentic Programming Responsive Design
 
-🇺🇸 About My Background
+🇺🇸 **About My Background**
+
 🎓 Studying Applied Computer Science at Dominican University of California.
 
 🎖️ Proud Veteran with 2.5 years of service in the military.
 
 💻 My technical background started as an Electronics Technician, giving me deep insight into how hardware and software interact.
 
-📫 Let's Connect!
+📫 **Let's Connect!**
+
 I'm always open to connecting with fellow developers, students, and professionals. Feel free to reach out!
 
 LinkedIn: https://www.linkedin.com/in/marcel-barrios-a292a4103/
