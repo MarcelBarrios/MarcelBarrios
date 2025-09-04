@@ -10,21 +10,21 @@ Here are some of the technologies I work with:
 
 **Frontend:**
 
-React, React Redux, JavaScript, HTML5, CSS3
+* React, React Redux, JavaScript, HTML5, CSS3
 
-Tailwind, CSS, Bootstrap≤ Jinja2
+* Tailwind, CSS, Bootstrap≤ Jinja2
 
 **Backend:**
 
-Python, Flask, Express.js, Java
+* Python, Flask, Express.js, Java
 
 **Databases & ORMs:**
 
-SQL, MongoDB, SQLAlchemy
+* SQL, MongoDB, SQLAlchemy
 
 **Concepts:**
 
-Web Design Agentic Programming Responsive Design
+* Web Design Agentic Programming Responsive Design
 
 🇺🇸 About My Background
 🎓 Studying Applied Computer Science at Dominican University of California.
