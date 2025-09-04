@@ -12,7 +12,7 @@ Here are some of the technologies I work with:
 
 * React, React Redux, JavaScript, HTML5, CSS3
 
-* Tailwind, CSS, Bootstrap≤ Jinja2
+* Tailwind, CSS, Bootstrap, Jinja2
 
 **Backend:**
 
